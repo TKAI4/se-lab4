@@ -1,0 +1,4 @@
+# TC7: ALL fires both stores simultaneously
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,SINGLE
