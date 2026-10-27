@@ -1,2 +1,3 @@
+# TC6: Primary fails -> does not try Secondary
 GT4500,1,1,1,0
 TORPEDO,SINGLE

@@ -1,3 +1,4 @@
+# TC5: Secondary is empty on 2nd shot -> fallback to Primary
 GT4500,2,0,0,0
 TORPEDO,SINGLE
 TORPEDO,SINGLE

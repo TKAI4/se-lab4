@@ -1,2 +1,3 @@
+# TC4: Primary is empty on 1st shot -> fallback to Secondary
 GT4500,0,0,1,0
 TORPEDO,SINGLE

@@ -1,3 +1,4 @@
+# TC1: Primary fires first, then both empty
 GT4500,1,0,0,0
 TORPEDO,SINGLE
 TORPEDO,SINGLE
